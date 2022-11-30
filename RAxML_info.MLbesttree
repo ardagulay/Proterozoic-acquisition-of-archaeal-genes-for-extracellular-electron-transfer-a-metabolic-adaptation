@@ -1,0 +1,766 @@
+
+
+IMPORTANT WARNING: Sequences sp102 and sp213 are exactly identical
+
+
+IMPORTANT WARNING: Sequences sp148 and sp164 are exactly identical
+
+
+IMPORTANT WARNING: Sequences sp207 and sp208 are exactly identical
+
+IMPORTANT WARNING
+Found 3 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+
+A mixed model file with model assignments for undetermined
+columns removed has already been printed to  file full_alignment.concat.partition.reduced
+An alignment file with sequence duplicates removed has already
+been printed to file full_alignment.concat.fa.reduced
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 8692 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 12.81%
+
+RAxML rapid hill-climbing mode
+
+Using 37 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 283
+Name: PF00162.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 1
+Alignment Patterns: 66
+Name: PF00276.16
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 2
+Alignment Patterns: 121
+Name: PF00281.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 3
+Alignment Patterns: 102
+Name: PF00297.18
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 4
+Alignment Patterns: 82
+Name: PF00347.19
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 5
+Alignment Patterns: 58
+Name: PF00366.16
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 6
+Alignment Patterns: 84
+Name: PF00380.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 7
+Alignment Patterns: 101
+Name: PF00410.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 8
+Alignment Patterns: 103
+Name: PF00411.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 9
+Alignment Patterns: 88
+Name: PF00416.18
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 10
+Alignment Patterns: 58
+Name: PF00466.16
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 11
+Alignment Patterns: 93
+Name: PF00573.18
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 12
+Alignment Patterns: 167
+Name: PF00750.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 13
+Alignment Patterns: 91
+Name: PF01025.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 14
+Alignment Patterns: 212
+Name: PF01795.15
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 15
+Alignment Patterns: 9
+Name: TIGR00012
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 16
+Alignment Patterns: 182
+Name: TIGR00064
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 17
+Alignment Patterns: 134
+Name: TIGR00158
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 18
+Alignment Patterns: 166
+Name: TIGR00234
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 19
+Alignment Patterns: 443
+Name: TIGR00337
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 20
+Alignment Patterns: 491
+Name: TIGR00344
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 21
+Alignment Patterns: 474
+Name: TIGR00392
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 22
+Alignment Patterns: 573
+Name: TIGR00396
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 23
+Alignment Patterns: 329
+Name: TIGR00414
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 24
+Alignment Patterns: 416
+Name: TIGR00418
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 25
+Alignment Patterns: 455
+Name: TIGR00422
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 26
+Alignment Patterns: 306
+Name: TIGR00435
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 27
+Alignment Patterns: 125
+Name: TIGR00442
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 28
+Alignment Patterns: 186
+Name: TIGR00468
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 29
+Alignment Patterns: 502
+Name: TIGR00631
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 30
+Alignment Patterns: 112
+Name: TIGR00755
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 31
+Alignment Patterns: 206
+Name: TIGR00967
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 32
+Alignment Patterns: 201
+Name: TIGR01011
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 33
+Alignment Patterns: 95
+Name: TIGR01049
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 34
+Alignment Patterns: 461
+Name: TIGR01059
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 35
+Alignment Patterns: 623
+Name: TIGR01063
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 36
+Alignment Patterns: 494
+Name: TIGR02350
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -f d -n MLbesttree -m GTRGAMMA -q full_alignment.concat.partition -s full_alignment.concat.fa -p 823086 -w /home/projects/env_10000/people/argl/After_09.06.19/Projects/Paradox/Genomics/EET_nitrifier/Paper1/Genomes_in_mtrA_tree/Genome_download/Species_database/PROTEIN1/PROTEINwARCHAEAwCalibrationwCyano/bcgTree/ -# 1 -T 1120 
+
+
+Partition: 0 with name: PF00162.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 1 with name: PF00276.16
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 2 with name: PF00281.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 3 with name: PF00297.18
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 4 with name: PF00347.19
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 5 with name: PF00366.16
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 6 with name: PF00380.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 7 with name: PF00410.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 8 with name: PF00411.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 9 with name: PF00416.18
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 10 with name: PF00466.16
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 11 with name: PF00573.18
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 12 with name: PF00750.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 13 with name: PF01025.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 14 with name: PF01795.15
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 15 with name: TIGR00012
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 16 with name: TIGR00064
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 17 with name: TIGR00158
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 18 with name: TIGR00234
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 19 with name: TIGR00337
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 20 with name: TIGR00344
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 21 with name: TIGR00392
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 22 with name: TIGR00396
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 23 with name: TIGR00414
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 24 with name: TIGR00418
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 25 with name: TIGR00422
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 26 with name: TIGR00435
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 27 with name: TIGR00442
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 28 with name: TIGR00468
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 29 with name: TIGR00631
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 30 with name: TIGR00755
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 31 with name: TIGR00967
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 32 with name: TIGR01011
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 33 with name: TIGR01049
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 34 with name: TIGR01059
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 35 with name: TIGR01063
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Partition: 36 with name: TIGR02350
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -38896.603477 with fixed base frequencies
+	Partition: 1 best-scoring AA model: LG likelihood -10053.297752 with fixed base frequencies
+	Partition: 2 best-scoring AA model: LG likelihood -13478.784741 with fixed base frequencies
+	Partition: 3 best-scoring AA model: LG likelihood -12689.311640 with fixed base frequencies
+	Partition: 4 best-scoring AA model: LG likelihood -10633.245106 with fixed base frequencies
+	Partition: 5 best-scoring AA model: LG likelihood -7814.901138 with fixed base frequencies
+	Partition: 6 best-scoring AA model: LG likelihood -9541.702012 with fixed base frequencies
+	Partition: 7 best-scoring AA model: LG likelihood -12872.195578 with fixed base frequencies
+	Partition: 8 best-scoring AA model: LG likelihood -7636.616789 with fixed base frequencies
+	Partition: 9 best-scoring AA model: LG likelihood -10605.224673 with fixed base frequencies
+	Partition: 10 best-scoring AA model: LG likelihood -9745.603391 with fixed base frequencies
+	Partition: 11 best-scoring AA model: LG likelihood -13473.593636 with fixed base frequencies
+	Partition: 12 best-scoring AA model: LG likelihood -23849.761285 with fixed base frequencies
+	Partition: 13 best-scoring AA model: LG likelihood -14651.165988 with fixed base frequencies
+	Partition: 14 best-scoring AA model: LG likelihood -26356.217706 with fixed base frequencies
+	Partition: 15 best-scoring AA model: LG likelihood -967.265971 with fixed base frequencies
+	Partition: 16 best-scoring AA model: LG likelihood -21357.120803 with fixed base frequencies
+	Partition: 17 best-scoring AA model: LG likelihood -17713.304372 with fixed base frequencies
+	Partition: 18 best-scoring AA model: LG likelihood -18603.602160 with fixed base frequencies
+	Partition: 19 best-scoring AA model: LG likelihood -55016.033235 with fixed base frequencies
+	Partition: 20 best-scoring AA model: LG likelihood -62500.343114 with fixed base frequencies
+	Partition: 21 best-scoring AA model: LG likelihood -60845.585026 with fixed base frequencies
+	Partition: 22 best-scoring AA model: LG likelihood -57848.518187 with fixed base frequencies
+	Partition: 23 best-scoring AA model: LG likelihood -44043.757628 with empirical base frequencies
+	Partition: 24 best-scoring AA model: LG likelihood -56235.563916 with fixed base frequencies
+	Partition: 25 best-scoring AA model: LG likelihood -50493.903308 with fixed base frequencies
+	Partition: 26 best-scoring AA model: LG likelihood -47648.616894 with fixed base frequencies
+	Partition: 27 best-scoring AA model: LG likelihood -14869.909199 with fixed base frequencies
+	Partition: 28 best-scoring AA model: LG likelihood -17292.371840 with fixed base frequencies
+	Partition: 29 best-scoring AA model: LG likelihood -55901.726436 with fixed base frequencies
+	Partition: 30 best-scoring AA model: LG likelihood -15814.416381 with fixed base frequencies
+	Partition: 31 best-scoring AA model: LG likelihood -16116.308065 with empirical base frequencies
+	Partition: 32 best-scoring AA model: LG likelihood -18964.394858 with fixed base frequencies
+	Partition: 33 best-scoring AA model: LG likelihood -4263.343230 with fixed base frequencies
+	Partition: 34 best-scoring AA model: LG likelihood -45088.176611 with empirical base frequencies
+	Partition: 35 best-scoring AA model: LG likelihood -68861.804796 with empirical base frequencies
+	Partition: 36 best-scoring AA model: LG likelihood -47313.303541 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -38883.855238 with fixed base frequencies
+	Partition: 1 best-scoring AA model: LG likelihood -10054.177805 with fixed base frequencies
+	Partition: 2 best-scoring AA model: LG likelihood -13475.604074 with fixed base frequencies
+	Partition: 3 best-scoring AA model: LG likelihood -12688.023077 with fixed base frequencies
+	Partition: 4 best-scoring AA model: LG likelihood -10634.618187 with fixed base frequencies
+	Partition: 5 best-scoring AA model: LG likelihood -7814.229353 with fixed base frequencies
+	Partition: 6 best-scoring AA model: LG likelihood -9518.546537 with fixed base frequencies
+	Partition: 7 best-scoring AA model: LG likelihood -12869.869284 with fixed base frequencies
+	Partition: 8 best-scoring AA model: LG likelihood -7614.344675 with fixed base frequencies
+	Partition: 9 best-scoring AA model: LG likelihood -10602.396856 with fixed base frequencies
+	Partition: 10 best-scoring AA model: LG likelihood -9739.654578 with fixed base frequencies
+	Partition: 11 best-scoring AA model: LG likelihood -13465.976874 with fixed base frequencies
+	Partition: 12 best-scoring AA model: LG likelihood -23847.950855 with fixed base frequencies
+	Partition: 13 best-scoring AA model: LG likelihood -14652.596690 with fixed base frequencies
+	Partition: 14 best-scoring AA model: LG likelihood -26308.862745 with fixed base frequencies
+	Partition: 15 best-scoring AA model: LG likelihood -966.019199 with fixed base frequencies
+	Partition: 16 best-scoring AA model: LG likelihood -21312.047110 with fixed base frequencies
+	Partition: 17 best-scoring AA model: LG likelihood -17715.999500 with fixed base frequencies
+	Partition: 18 best-scoring AA model: LG likelihood -18598.517866 with fixed base frequencies
+	Partition: 19 best-scoring AA model: LG likelihood -54819.126958 with fixed base frequencies
+	Partition: 20 best-scoring AA model: LG likelihood -62454.087721 with fixed base frequencies
+	Partition: 21 best-scoring AA model: LG likelihood -60814.526663 with fixed base frequencies
+	Partition: 22 best-scoring AA model: LG likelihood -57686.830247 with fixed base frequencies
+	Partition: 23 best-scoring AA model: LG likelihood -43991.789154 with empirical base frequencies
+	Partition: 24 best-scoring AA model: LG likelihood -56226.181184 with fixed base frequencies
+	Partition: 25 best-scoring AA model: LG likelihood -50467.688917 with fixed base frequencies
+	Partition: 26 best-scoring AA model: LG likelihood -47579.740284 with fixed base frequencies
+	Partition: 27 best-scoring AA model: LG likelihood -14855.257188 with fixed base frequencies
+	Partition: 28 best-scoring AA model: LG likelihood -17273.193729 with fixed base frequencies
+	Partition: 29 best-scoring AA model: LG likelihood -55657.533647 with fixed base frequencies
+	Partition: 30 best-scoring AA model: LG likelihood -15794.111524 with fixed base frequencies
+	Partition: 31 best-scoring AA model: LG likelihood -16094.906796 with empirical base frequencies
+	Partition: 32 best-scoring AA model: LG likelihood -18959.090661 with fixed base frequencies
+	Partition: 33 best-scoring AA model: LG likelihood -4245.891430 with fixed base frequencies
+	Partition: 34 best-scoring AA model: LG likelihood -44894.692303 with empirical base frequencies
+	Partition: 35 best-scoring AA model: LG likelihood -68810.181027 with empirical base frequencies
+	Partition: 36 best-scoring AA model: LG likelihood -47186.595646 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -38931.499363 with fixed base frequencies
+	Partition: 1 best-scoring AA model: LG likelihood -10055.321506 with fixed base frequencies
+	Partition: 2 best-scoring AA model: LG likelihood -13498.311025 with fixed base frequencies
+	Partition: 3 best-scoring AA model: LG likelihood -12693.200047 with fixed base frequencies
+	Partition: 4 best-scoring AA model: LG likelihood -10631.237710 with fixed base frequencies
+	Partition: 5 best-scoring AA model: LG likelihood -7825.570662 with fixed base frequencies
+	Partition: 6 best-scoring AA model: LG likelihood -9509.527119 with fixed base frequencies
+	Partition: 7 best-scoring AA model: LG likelihood -12871.732516 with fixed base frequencies
+	Partition: 8 best-scoring AA model: LG likelihood -7616.398217 with fixed base frequencies
+	Partition: 9 best-scoring AA model: LG likelihood -10620.417899 with fixed base frequencies
+	Partition: 10 best-scoring AA model: LG likelihood -9733.939525 with fixed base frequencies
+	Partition: 11 best-scoring AA model: LG likelihood -13467.766631 with fixed base frequencies
+	Partition: 12 best-scoring AA model: LG likelihood -23848.167899 with fixed base frequencies
+	Partition: 13 best-scoring AA model: LG likelihood -14649.388924 with fixed base frequencies
+	Partition: 14 best-scoring AA model: LG likelihood -26316.701406 with fixed base frequencies
+	Partition: 15 best-scoring AA model: LG likelihood -967.121071 with fixed base frequencies
+	Partition: 16 best-scoring AA model: LG likelihood -21314.907324 with fixed base frequencies
+	Partition: 17 best-scoring AA model: LG likelihood -17716.011589 with fixed base frequencies
+	Partition: 18 best-scoring AA model: LG likelihood -18245.219691 with fixed base frequencies
+	Partition: 19 best-scoring AA model: LG likelihood -54819.932963 with fixed base frequencies
+	Partition: 20 best-scoring AA model: LG likelihood -62533.150397 with fixed base frequencies
+	Partition: 21 best-scoring AA model: LG likelihood -60934.004742 with fixed base frequencies
+	Partition: 22 best-scoring AA model: LG likelihood -57735.085073 with fixed base frequencies
+	Partition: 23 best-scoring AA model: LG likelihood -44005.353514 with empirical base frequencies
+	Partition: 24 best-scoring AA model: LG likelihood -55767.450437 with fixed base frequencies
+	Partition: 25 best-scoring AA model: LG likelihood -50557.599692 with fixed base frequencies
+	Partition: 26 best-scoring AA model: LG likelihood -47572.658586 with fixed base frequencies
+	Partition: 27 best-scoring AA model: LG likelihood -14853.461305 with fixed base frequencies
+	Partition: 28 best-scoring AA model: LG likelihood -17267.515166 with fixed base frequencies
+	Partition: 29 best-scoring AA model: LG likelihood -55660.756537 with fixed base frequencies
+	Partition: 30 best-scoring AA model: LG likelihood -15812.779717 with fixed base frequencies
+	Partition: 31 best-scoring AA model: LG likelihood -16102.414563 with empirical base frequencies
+	Partition: 32 best-scoring AA model: LG likelihood -18964.222815 with fixed base frequencies
+	Partition: 33 best-scoring AA model: LG likelihood -4246.004116 with fixed base frequencies
+	Partition: 34 best-scoring AA model: LG likelihood -44922.300282 with empirical base frequencies
+	Partition: 35 best-scoring AA model: LG likelihood -68837.203158 with empirical base frequencies
+	Partition: 36 best-scoring AA model: LG likelihood -47146.383101 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -38900.535819 with fixed base frequencies
+	Partition: 1 best-scoring AA model: LG likelihood -10064.228591 with fixed base frequencies
+	Partition: 2 best-scoring AA model: LG likelihood -13456.545084 with fixed base frequencies
+	Partition: 3 best-scoring AA model: LG likelihood -12669.555377 with fixed base frequencies
+	Partition: 4 best-scoring AA model: LG likelihood -10650.800057 with fixed base frequencies
+	Partition: 5 best-scoring AA model: LG likelihood -7827.752221 with fixed base frequencies
+	Partition: 6 best-scoring AA model: LG likelihood -9508.723329 with fixed base frequencies
+	Partition: 7 best-scoring AA model: LG likelihood -12912.468341 with fixed base frequencies
+	Partition: 8 best-scoring AA model: LG likelihood -7621.416687 with fixed base frequencies
+	Partition: 9 best-scoring AA model: LG likelihood -10626.138599 with fixed base frequencies
+	Partition: 10 best-scoring AA model: LG likelihood -9743.114334 with fixed base frequencies
+	Partition: 11 best-scoring AA model: LG likelihood -13448.187216 with fixed base frequencies
+	Partition: 12 best-scoring AA model: LG likelihood -23822.205120 with fixed base frequencies
+	Partition: 13 best-scoring AA model: LG likelihood -14641.037238 with fixed base frequencies
+	Partition: 14 best-scoring AA model: LG likelihood -26345.979649 with fixed base frequencies
+	Partition: 15 best-scoring AA model: LG likelihood -971.512053 with fixed base frequencies
+	Partition: 16 best-scoring AA model: LG likelihood -21308.232344 with fixed base frequencies
+	Partition: 17 best-scoring AA model: LG likelihood -17700.782334 with fixed base frequencies
+	Partition: 18 best-scoring AA model: LG likelihood -18242.649168 with fixed base frequencies
+	Partition: 19 best-scoring AA model: LG likelihood -54800.054736 with fixed base frequencies
+	Partition: 20 best-scoring AA model: LG likelihood -62528.707310 with fixed base frequencies
+	Partition: 21 best-scoring AA model: LG likelihood -60870.394846 with fixed base frequencies
+	Partition: 22 best-scoring AA model: LG likelihood -57682.921783 with fixed base frequencies
+	Partition: 23 best-scoring AA model: LG likelihood -44016.991471 with empirical base frequencies
+	Partition: 24 best-scoring AA model: LG likelihood -55611.686213 with fixed base frequencies
+	Partition: 25 best-scoring AA model: LG likelihood -50573.409749 with fixed base frequencies
+	Partition: 26 best-scoring AA model: LG likelihood -47625.160730 with fixed base frequencies
+	Partition: 27 best-scoring AA model: LG likelihood -14852.405520 with fixed base frequencies
+	Partition: 28 best-scoring AA model: LG likelihood -17269.008181 with fixed base frequencies
+	Partition: 29 best-scoring AA model: LG likelihood -55709.949292 with fixed base frequencies
+	Partition: 30 best-scoring AA model: LG likelihood -15803.992195 with fixed base frequencies
+	Partition: 31 best-scoring AA model: LG likelihood -16095.505842 with empirical base frequencies
+	Partition: 32 best-scoring AA model: LG likelihood -18971.087937 with fixed base frequencies
+	Partition: 33 best-scoring AA model: LG likelihood -4230.637682 with fixed base frequencies
+	Partition: 34 best-scoring AA model: LG likelihood -44934.743283 with empirical base frequencies
+	Partition: 35 best-scoring AA model: LG likelihood -68833.493311 with empirical base frequencies
+	Partition: 36 best-scoring AA model: LG likelihood -47109.581472 with empirical base frequencies
+
+
+Inference[0]: Time 71959.344164 GAMMA-based likelihood -1017934.225457, best rearrangement setting 5
+alpha[0]: 0.830118 alpha[1]: 1.037379 alpha[2]: 1.228420 alpha[3]: 0.929088 alpha[4]: 1.079438 alpha[5]: 1.250658 alpha[6]: 0.551345 alpha[7]: 0.883784 alpha[8]: 0.560650 alpha[9]: 0.974515 alpha[10]: 1.302852 alpha[11]: 1.362692 alpha[12]: 0.981519 alpha[13]: 1.031778 alpha[14]: 0.606864 alpha[15]: 1.529321 alpha[16]: 0.654783 alpha[17]: 0.976834 alpha[18]: 0.906788 alpha[19]: 0.589024 alpha[20]: 0.750815 alpha[21]: 0.799274 alpha[22]: 0.603954 alpha[23]: 0.631771 alpha[24]: 0.895194 alpha[25]: 0.870544 alpha[26]: 0.648362 alpha[27]: 0.757144 alpha[28]: 0.783562 alpha[29]: 0.570437 alpha[30]: 0.629331 alpha[31]: 0.768957 alpha[32]: 1.086305 alpha[33]: 0.520464 alpha[34]: 0.555045 alpha[35]: 0.762567 alpha[36]: 0.617540 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -38900.884795 with fixed base frequencies
+	Partition: 1 best-scoring AA model: LG likelihood -10058.490872 with fixed base frequencies
+	Partition: 2 best-scoring AA model: LG likelihood -13459.559360 with fixed base frequencies
+	Partition: 3 best-scoring AA model: LG likelihood -12662.002275 with fixed base frequencies
+	Partition: 4 best-scoring AA model: LG likelihood -10650.668768 with fixed base frequencies
+	Partition: 5 best-scoring AA model: LG likelihood -7829.279325 with fixed base frequencies
+	Partition: 6 best-scoring AA model: LG likelihood -9510.835414 with fixed base frequencies
+	Partition: 7 best-scoring AA model: LG likelihood -12915.870480 with fixed base frequencies
+	Partition: 8 best-scoring AA model: LG likelihood -7621.744531 with fixed base frequencies
+	Partition: 9 best-scoring AA model: LG likelihood -10623.478975 with fixed base frequencies
+	Partition: 10 best-scoring AA model: LG likelihood -9741.692283 with fixed base frequencies
+	Partition: 11 best-scoring AA model: LG likelihood -13446.888867 with fixed base frequencies
+	Partition: 12 best-scoring AA model: LG likelihood -23824.471431 with fixed base frequencies
+	Partition: 13 best-scoring AA model: LG likelihood -14640.184066 with fixed base frequencies
+	Partition: 14 best-scoring AA model: LG likelihood -26347.984350 with fixed base frequencies
+	Partition: 15 best-scoring AA model: LG likelihood -972.343589 with fixed base frequencies
+	Partition: 16 best-scoring AA model: LG likelihood -21311.186259 with fixed base frequencies
+	Partition: 17 best-scoring AA model: LG likelihood -17701.041179 with fixed base frequencies
+	Partition: 18 best-scoring AA model: LG likelihood -18242.915192 with fixed base frequencies
+	Partition: 19 best-scoring AA model: LG likelihood -54797.376168 with fixed base frequencies
+	Partition: 20 best-scoring AA model: LG likelihood -62523.121256 with fixed base frequencies
+	Partition: 21 best-scoring AA model: LG likelihood -60874.858881 with fixed base frequencies
+	Partition: 22 best-scoring AA model: LG likelihood -57670.713769 with fixed base frequencies
+	Partition: 23 best-scoring AA model: LG likelihood -44013.949703 with empirical base frequencies
+	Partition: 24 best-scoring AA model: LG likelihood -55615.352527 with fixed base frequencies
+	Partition: 25 best-scoring AA model: LG likelihood -50576.390859 with fixed base frequencies
+	Partition: 26 best-scoring AA model: LG likelihood -47619.580475 with fixed base frequencies
+	Partition: 27 best-scoring AA model: LG likelihood -14853.580534 with fixed base frequencies
+	Partition: 28 best-scoring AA model: LG likelihood -17273.355190 with fixed base frequencies
+	Partition: 29 best-scoring AA model: LG likelihood -55691.387764 with fixed base frequencies
+	Partition: 30 best-scoring AA model: LG likelihood -15805.033750 with fixed base frequencies
+	Partition: 31 best-scoring AA model: LG likelihood -16079.203081 with empirical base frequencies
+	Partition: 32 best-scoring AA model: LG likelihood -18968.223443 with fixed base frequencies
+	Partition: 33 best-scoring AA model: LG likelihood -4224.580603 with fixed base frequencies
+	Partition: 34 best-scoring AA model: LG likelihood -44919.842426 with empirical base frequencies
+	Partition: 35 best-scoring AA model: LG likelihood -68839.415545 with empirical base frequencies
+	Partition: 36 best-scoring AA model: LG likelihood -47124.186365 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -38900.888249 with fixed base frequencies
+	Partition: 1 best-scoring AA model: LG likelihood -10058.486224 with fixed base frequencies
+	Partition: 2 best-scoring AA model: LG likelihood -13459.563331 with fixed base frequencies
+	Partition: 3 best-scoring AA model: LG likelihood -12661.998736 with fixed base frequencies
+	Partition: 4 best-scoring AA model: LG likelihood -10650.661920 with fixed base frequencies
+	Partition: 5 best-scoring AA model: LG likelihood -7829.261915 with fixed base frequencies
+	Partition: 6 best-scoring AA model: LG likelihood -9510.837867 with fixed base frequencies
+	Partition: 7 best-scoring AA model: LG likelihood -12915.865346 with fixed base frequencies
+	Partition: 8 best-scoring AA model: LG likelihood -7621.735640 with fixed base frequencies
+	Partition: 9 best-scoring AA model: LG likelihood -10623.483303 with fixed base frequencies
+	Partition: 10 best-scoring AA model: LG likelihood -9741.695394 with fixed base frequencies
+	Partition: 11 best-scoring AA model: LG likelihood -13446.878040 with fixed base frequencies
+	Partition: 12 best-scoring AA model: LG likelihood -23824.462850 with fixed base frequencies
+	Partition: 13 best-scoring AA model: LG likelihood -14640.171936 with fixed base frequencies
+	Partition: 14 best-scoring AA model: LG likelihood -26347.936983 with fixed base frequencies
+	Partition: 15 best-scoring AA model: LG likelihood -972.343178 with fixed base frequencies
+	Partition: 16 best-scoring AA model: LG likelihood -21311.168463 with fixed base frequencies
+	Partition: 17 best-scoring AA model: LG likelihood -17701.019535 with fixed base frequencies
+	Partition: 18 best-scoring AA model: LG likelihood -18242.921152 with fixed base frequencies
+	Partition: 19 best-scoring AA model: LG likelihood -54797.357690 with fixed base frequencies
+	Partition: 20 best-scoring AA model: LG likelihood -62523.108363 with fixed base frequencies
+	Partition: 21 best-scoring AA model: LG likelihood -60874.861758 with fixed base frequencies
+	Partition: 22 best-scoring AA model: LG likelihood -57670.695766 with fixed base frequencies
+	Partition: 23 best-scoring AA model: LG likelihood -44013.942118 with empirical base frequencies
+	Partition: 24 best-scoring AA model: LG likelihood -55615.362713 with fixed base frequencies
+	Partition: 25 best-scoring AA model: LG likelihood -50576.392439 with fixed base frequencies
+	Partition: 26 best-scoring AA model: LG likelihood -47619.580477 with fixed base frequencies
+	Partition: 27 best-scoring AA model: LG likelihood -14853.574461 with fixed base frequencies
+	Partition: 28 best-scoring AA model: LG likelihood -17273.362347 with fixed base frequencies
+	Partition: 29 best-scoring AA model: LG likelihood -55691.382948 with fixed base frequencies
+	Partition: 30 best-scoring AA model: LG likelihood -15805.022163 with fixed base frequencies
+	Partition: 31 best-scoring AA model: LG likelihood -16079.201967 with empirical base frequencies
+	Partition: 32 best-scoring AA model: LG likelihood -18968.235149 with fixed base frequencies
+	Partition: 33 best-scoring AA model: LG likelihood -4224.531129 with fixed base frequencies
+	Partition: 34 best-scoring AA model: LG likelihood -44919.804007 with empirical base frequencies
+	Partition: 35 best-scoring AA model: LG likelihood -68839.433134 with empirical base frequencies
+	Partition: 36 best-scoring AA model: LG likelihood -47124.218118 with empirical base frequencies
+
+
+Inference[0] final GAMMA-based Likelihood: -1017934.020078 tree written to file /home/projects/env_10000/people/argl/After_09.06.19/Projects/Paradox/Genomics/EET_nitrifier/Paper1/Genomes_in_mtrA_tree/Genome_download/Species_database/PROTEIN1/PROTEINwARCHAEAwCalibrationwCyano/bcgTree/RAxML_result.MLbesttree
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -1017934.020078 .... 
+
+Final GAMMA-based Score of best tree -1017934.020078
+
+Program execution info written to /home/projects/env_10000/people/argl/After_09.06.19/Projects/Paradox/Genomics/EET_nitrifier/Paper1/Genomes_in_mtrA_tree/Genome_download/Species_database/PROTEIN1/PROTEINwARCHAEAwCalibrationwCyano/bcgTree/RAxML_info.MLbesttree
+Best-scoring ML tree written to: /home/projects/env_10000/people/argl/After_09.06.19/Projects/Paradox/Genomics/EET_nitrifier/Paper1/Genomes_in_mtrA_tree/Genome_download/Species_database/PROTEIN1/PROTEINwARCHAEAwCalibrationwCyano/bcgTree/RAxML_bestTree.MLbesttree
+
+Overall execution time: 104287.822156 secs or 28.968839 hours or 1.207035 days
+
