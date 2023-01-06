@@ -1,0 +1,1002 @@
+------------------------
+Rec teraRec
+{366,365}
+	(424,423) [3603.57-3391.14]
+{365,364}
+	(423,422) [3391.14-3150.99]
+{364,363}
+	(422,421) [3150.99-2846.71]
+{363,362}
+	(421,420) [2846.71-2581.52]
+{362,361}
+	(420,Euryarchaeota_archaeon.2) [2581.52-1970.93]
+{361,360}
+	(420,Euryarchaeota_archaeon.2) [1970.93-1970.93:1970.93]
+	(232,231) [1970.93-1919.87]
+{360,359}
+	(231,195) [1919.87-1745.23]
+{359,358}
+	(195,Permianibacter_aggregans) [1745.23-1628.16]
+{358,357}
+	(195,Permianibacter_aggregans) [1628.16-1511.31]
+{357,356}
+	(195,Permianibacter_aggregans) [1511.31-1480.97]
+{356,355}
+	(195,Permianibacter_aggregans) [1480.97-1480.97:1480.97]
+	(294,293) [1480.97-1450.63]
+{355,354}
+	(293,292) [1450.63-1280.29]
+{354,353}
+	(292,291) [1280.29-1100.93]
+{353,352}
+	(291,290) [1100.93-876.059]
+	(290,289) [876.059-590.418]
+{352,Rhodoferax_ferrireducens_T118}
+	(289,285) [590.418-288.793]
+	(285,Rhodoferax_ferrireducens_T118) [288.793-0]
+{352,Burkholderiales_bacterium_JOSHI_001}
+	(289,288) [590.418-359.859]
+	(288,Burkholderiales_bacterium_JOSHI_001) [359.859-0]
+{353,349}
+	(291,GR16-43) [1100.93-144]
+{349,Rhodoferax_sp._IMCC26218}
+	(291,GR16-43) [144-144:144]
+	(285,Rhodoferax_sp._IMCC26218) [144-0]
+{349,GR16-43}
+	(291,GR16-43) [144-0]
+{354,346}
+	(292,280) [1280.29-1179.06]
+{346,345}
+	(292,280) [1179.06-1047.88]
+{345,344}
+	(280,279) [1047.88-857.698]
+{344,343}
+	(279,278) [857.698-490.27]
+	(278,277) [490.27-191.01]
+{343,Azoarcus_sp._KH32C}
+	(277,Azoarcus_sp._KH32C) [191.01-0]
+{343,Azoarcus_sp._CIB}
+	(277,Azoarcus_sp._CIB) [191.01-0]
+{344,340}
+	(279,Sterolibacterium_denitrificans) [857.698-416.25]
+{340,339}
+	(279,Sterolibacterium_denitrificans) [416.25-416.25:416.25]
+	(270,Propionivibrio_dicarboxylicus) [416.25-277.5]
+{339,Uliginosibacterium_TH139}
+	(270,Propionivibrio_dicarboxylicus) [277.5-277.5:277.5]
+	(272,Uliginosibacterium_TH139) [277.5-0]
+{339,Propionivibrio_dicarboxylicus}
+	(270,Propionivibrio_dicarboxylicus) [277.5-0]
+{340,Sterolibacterium_denitrificans}
+	(279,Sterolibacterium_denitrificans) [416.25-0]
+{345,Dechloromonas_sp._HYN0024}
+	(280,272) [1047.88-867.601]
+	(272,270) [867.601-555.441]
+	(270,269) [555.441-124.442]
+	(269,Dechloromonas_sp._HYN0024) [124.442-0]
+{346,334}
+	(292,280) [1179.06-1179.06:1179.06]
+	(295,Sulfuricaulis_limicola) [1179.06-1078.12]
+{334,333}
+	(295,Sulfuricaulis_limicola) [1078.12-1078.12:1078.12]
+	(291,290) [1078.12-1056.25]
+{333,332}
+	(291,290) [1056.25-1056.25:1056.25]
+	(140,Aestuariirhabdus_litorea) [1056.25-1012.5]
+{332,331}
+	(140,Aestuariirhabdus_litorea) [1012.5-1012.5:1012.5]
+	(294,262) [1012.5-924.994]
+{331,330}
+	(262,254) [924.994-681.279]
+{330,329}
+	(254,253) [681.279-282.774]
+{329,328}
+	(253,252) [282.774-75.5267]
+{328,327}
+	(252,248) [75.5267-27.6868]
+{327,326}
+	(252,248) [27.6868-16.3737]
+{326,Nitrosomonas_oligotropha}
+	(248,Nitrosomonas_oligotropha) [16.3737-0]
+{326,Nitrosomonas_sp._Nm120}
+	(248,Nitrosomonas_sp._Nm120) [16.3737-0]
+{327,Nitrosomonas_sp._Nm141}
+	(252,248) [27.6868-27.6868:27.6868]
+	(251,Nitrosomonas_sp._Nm141) [27.6868-0]
+{328,Nitrosomonas_sp._Nm134}
+	(252,251) [75.5267-39.6175]
+	(251,Nitrosomonas_sp._Nm134) [39.6175-0]
+{329,321}
+	(253,245) [282.774-0.3531]
+{321,Nitrosomonas_sp._Nm84}
+	(245,Nitrosomonas_sp._Nm84) [0.3531-0]
+{321,Nitrosomonas_sp._Nm86}
+	(245,Nitrosomonas_sp._Nm86) [0.3531-0]
+{330,318}
+	(254,242) [681.279-213.804]
+{318,317}
+	(242,241) [213.804-107.017]
+{317,316}
+	(241,240) [107.017-44.0728]
+{316,315}
+	(240,Nitrosomonas_sp._Nm34) [44.0728-10]
+{315,Nitrosomonas_communis.1}
+	(240,Nitrosomonas_sp._Nm34) [10-10:10]
+	(239,Nitrosomonas_communis.1) [10-0]
+{315,Nitrosomonas_sp._Nm34}
+	(240,Nitrosomonas_sp._Nm34) [10-0]
+{316,Nitrosomonas_communis.2}
+	(240,239) [44.0728-20.956]
+	(239,Nitrosomonas_communis.2) [20.956-0]
+{317,Nitrosomonas_communis.3}
+	(241,Nitrosomonas_communis.3) [107.017-0]
+{318,Nitrosomonas_sp._Nm33}
+	(242,Nitrosomonas_sp._Nm33) [213.804-0]
+{331,Nitrosovibrio_sp._Nv17}
+	(262,261) [924.994-559.282]
+	(261,257) [559.282-408.829]
+	(257,Nitrosovibrio_sp._Nv17) [408.829-0]
+{332,Aestuariirhabdus_litorea}
+	(140,Aestuariirhabdus_litorea) [1012.5-0]
+{333,Noviherbaspirillum_denitrificans}
+	(291,290) [1056.25-876.059]
+	(290,Noviherbaspirillum_denitrificans) [876.059-0]
+{334,Sulfuricaulis_limicola}
+	(295,Sulfuricaulis_limicola) [1078.12-0]
+{355,305}
+	(293,265) [1450.63-703.919]
+{305,304}
+	(265,Sideroxydans_lithotrophicus_ES-1) [703.919-242]
+{304,303}
+	(265,Sideroxydans_lithotrophicus_ES-1) [242-242:242]
+	(104,Dokdonella_immobilis) [242-62]
+{303,Dokdonella_immobilis}
+	(104,Dokdonella_immobilis) [62-0]
+{303,Dechloromonas_aromatica_RCB}
+	(104,Dokdonella_immobilis) [62-62:62]
+	(269,Dechloromonas_aromatica_RCB) [62-0]
+{304,Sideroxydans_lithotrophicus_ES-1}
+	(265,Sideroxydans_lithotrophicus_ES-1) [242-0]
+{305,Gallionella_capsiferriformans_ES-2}
+	(265,Gallionella_capsiferriformans_ES-2) [703.919-0]
+{356,298}
+	(195,Permianibacter_aggregans) [1480.97-1036.44]
+{298,297}
+	(195,Permianibacter_aggregans) [1036.44-1036.44:1036.44]
+	(140,139) [1036.44-988.554]
+{297,296}
+	(139,138) [988.554-482.83]
+{296,Kineobactrum_sediminis}
+	(138,Kineobactrum_sediminis) [482.83-0]
+{296,Halioglobus_sediminis}
+	(138,Halioglobus_sediminis) [482.83-0]
+{297,Alteromonadaceae.01}
+	(139,135) [988.554-645.11]
+	(135,Alteromonadaceae.01) [645.11-0]
+{298,292}
+	(195,Permianibacter_aggregans) [1036.44-311.095]
+{292,291}
+	(195,Permianibacter_aggregans) [311.095-127.714]
+{291,Permianibacter_aggregans}
+	(195,Permianibacter_aggregans) [127.714-0]
+{291,Aquimonas_voraii}
+	(195,Permianibacter_aggregans) [127.714-127.714:127.714]
+	(97,Aquimonas_voraii) [127.714-0]
+{292,Wenzhouxiangella_marina}
+	(195,Permianibacter_aggregans) [311.095-311.095:311.095]
+	(130,Wenzhouxiangella_marina) [311.095-0]
+{357,287}
+	(195,Permianibacter_aggregans) [1511.31-1511.31:1511.31]
+	(91,90) [1511.31-1217.07]
+	(90,86) [1217.07-962.44]
+{287,286}
+	(86,Insolitispirillum_peregrinum) [962.44-465.75]
+{286,285}
+	(86,Insolitispirillum_peregrinum) [465.75-465.75:465.75]
+	(85,Magnetospirillum_magneticum_AMB-1) [465.75-310.5]
+{285,Skermanella_stibiiresistens}
+	(85,Magnetospirillum_magneticum_AMB-1) [310.5-310.5:310.5]
+	(89,Skermanella_stibiiresistens) [310.5-0]
+{285,Magnetospirillum_magneticum_AMB-1}
+	(85,Magnetospirillum_magneticum_AMB-1) [310.5-0]
+{286,Insolitispirillum_peregrinum}
+	(86,Insolitispirillum_peregrinum) [465.75-0]
+{287,Telmatospirillum_siberiense}
+	(86,85) [962.44-621.766]
+	(85,Telmatospirillum_siberiense) [621.766-0]
+{358,Nitrosococcus_halophilus_Nc_4}
+	(195,Permianibacter_aggregans) [1628.16-116]
+	(195,Permianibacter_aggregans) [116-116:116]
+	(210,Nitrosococcus_halophilus_Nc_4) [116-0]
+{359,279}
+	(195,194) [1745.23-1591.17]
+{279,278}
+	(194,140) [1591.17-1302.8]
+{278,277}
+	(194,140) [1302.8-1228.61]
+	(140,139) [1228.61-988.554]
+	(139,135) [988.554-816.555]
+{277,Marinimicrobium_koreense}
+	(139,135) [816.555-645.11]
+	(135,Marinimicrobium_koreense) [645.11-0]
+{277,Thiohalomonas_denitrificans}
+	(139,135) [816.555-816.555:816.555]
+	(227,Thiohalomonas_denitrificans) [816.555-0]
+{278,Methylohalobius_crimeensis_10Ki}
+	(194,140) [1302.8-1302.8:1302.8]
+	(206,Methylohalobius_crimeensis_10Ki) [1302.8-0]
+{279,273}
+	(194,193) [1591.17-1450.83]
+{273,272}
+	(194,193) [1450.83-1310.65]
+	(193,192) [1310.65-1179.09]
+{272,271}
+	(192,191) [1179.09-1037.41]
+{271,270}
+	(191,190) [1037.41-927.598]
+{270,269}
+	(190,189) [927.598-670.938]
+{269,268}
+	(189,188) [670.938-601.234]
+{268,267}
+	(188,187) [601.234-531.509]
+{267,266}
+	(187,Shewanella_amazonensis_SB2B) [531.509-345.734]
+{266,265}
+	(187,Shewanella_amazonensis_SB2B) [345.734-345.734:345.734]
+	(186,185) [345.734-243.467]
+{265,264}
+	(186,185) [243.467-38.9343]
+{264,Shewanella_decolorationis_S12}
+	(185,Shewanella_decolorationis_S12) [38.9343-0]
+{264,Shewanella_oneidensis_MR-1}
+	(185,Shewanella_oneidensis_MR-1) [38.9343-0]
+{265,Shewanella_algae}
+	(186,185) [243.467-243.467:243.467]
+	(188,Shewanella_algae) [243.467-0]
+{266,Shewanella_amazonensis_SB2B}
+	(187,Shewanella_amazonensis_SB2B) [345.734-0]
+{267,259}
+	(187,186) [531.509-448.264]
+{259,258}
+	(186,182) [448.264-375.408]
+	(182,176) [375.408-276.642]
+{258,257}
+	(176,174) [276.642-222.241]
+{257,256}
+	(174,173) [222.241-158.703]
+{256,Shewanella_woodyi}
+	(173,Shewanella_woodyi) [158.703-0]
+{256,Shewanella_sediminis_HAW-EB3}
+	(173,171) [158.703-118.332]
+	(171,Shewanella_sediminis_HAW-EB3) [118.332-0]
+{257,Shewanella_pealeane}
+	(174,Shewanella_pealeane) [222.241-0]
+{258,Shewanella_colwelliana}
+	(176,Shewanella_colwelliana) [276.642-0]
+{259,Shewanella_benthica_KT99}
+	(186,185) [448.264-78.4672]
+	(186,185) [78.4672-78.4672:78.4672]
+	(171,Shewanella_benthica_KT99) [78.4672-0]
+{268,250}
+	(188,Shewanella_algae) [601.234-333.967]
+	(188,Shewanella_algae) [333.967-333.967:333.967]
+	(182,181) [333.967-292.933]
+{250,249}
+	(181,Shewanella_frigidimarina) [292.933-219]
+{249,248}
+	(181,Shewanella_frigidimarina) [219-219:219]
+	(165,Shewanella_fodinae) [219-146]
+{248,Shewanella_mangrovi}
+	(165,Shewanella_fodinae) [146-146:146]
+	(165,Shewanella_mangrovi) [146-0]
+{248,Shewanella_fodinae}
+	(165,Shewanella_fodinae) [146-0]
+{249,Shewanella_frigidimarina}
+	(181,Shewanella_frigidimarina) [219-0]
+{250,Shewanella_maritima}
+	(181,180) [292.933-220.162]
+	(180,Shewanella_maritima) [220.162-0]
+{269,Shewanella_sp._P1-14-1}
+	(189,165) [670.938-383.846]
+	(165,Shewanella_fodinae) [383.846-110]
+	(165,Shewanella_fodinae) [110-110:110]
+	(180,Shewanella_sp._P1-14-1) [110-0]
+{270,242}
+	(190,162) [927.598-584.269]
+{242,241}
+	(162,160) [584.269-301.148]
+{241,Ferrimonas_marina}
+	(160,Ferrimonas_marina) [301.148-0]
+{241,Ferrimonas_balearica_DSM_9799}
+	(160,Ferrimonas_balearica_DSM_9799) [301.148-0]
+{242,Ferrimonas_sediminum}
+	(162,Ferrimonas_sediminum) [584.269-0]
+{271,237}
+	(191,157) [1037.41-837.597]
+{237,236}
+	(157,156) [837.597-392.184]
+{236,235}
+	(156,154) [392.184-165.755]
+{235,234}
+	(154,153) [165.755-71.8259]
+{234,Vibrio_natriegens}
+	(153,Vibrio_natriegens) [71.8259-0]
+{234,Vibrio_parahaemolyticus}
+	(153,Vibrio_parahaemolyticus) [71.8259-0]
+{235,Vibrio_vulnificus}
+	(154,Vibrio_vulnificus) [165.755-0]
+{236,Photobacterium_gaetbulicola_Gung47}
+	(156,Photobacterium_gaetbulicola_Gung47) [392.184-0]
+{237,229}
+	(157,149) [837.597-238.16]
+{229,228}
+	(149,148) [238.16-94.6154]
+{228,Aeromonas_cavernicola}
+	(148,Aeromonas_cavernicola) [94.6154-0]
+{228,Aeromonas_hydrophila}
+	(148,Aeromonas_hydrophila) [94.6154-0]
+{229,Aeromonas_schubertii}
+	(149,Aeromonas_schubertii) [238.16-0]
+{272,224}
+	(192,144) [1179.09-522.279]
+{224,Thalassotalea_sp._ND16A}
+	(144,Thalassotalea_sp._ND16A) [522.279-0]
+{224,Colwellia_sp._PAMC_20917}
+	(144,Colwellia_sp._PAMC_20917) [522.279-0]
+{273,Woesearchaeota_archaeon}
+	(194,193) [1450.83-1450.83:1450.83]
+	(338,Woesearchaeota_archaeon) [1450.83-0]
+{360,220}
+	(231,230) [1919.87-1761.84]
+	(230,229) [1761.84-1588.71]
+{220,219}
+	(229,228) [1588.71-1453.9]
+	(228,216) [1453.9-504.88]
+{219,Halorhodospira_halochloris}
+	(216,Halorhodospira_halochloris) [504.88-0]
+{219,Halorhodospira_halophila}
+	(216,Halorhodospira_halophila) [504.88-0]
+{220,Ectothiorhodospira_haloalkaliphila}
+	(229,213) [1588.71-1282.45]
+	(213,Ectothiorhodospira_haloalkaliphila) [1282.45-0]
+{361,215}
+	(420,Euryarchaeota_archaeon.2) [1970.93-1326.7]
+{215,214}
+	(420,Euryarchaeota_archaeon.2) [1326.7-1326.7:1326.7]
+	(91,81) [1326.7-1204.05]
+{214,213}
+	(81,Kordiimonas_lacus) [1204.05-1150.46]
+{213,212}
+	(81,Kordiimonas_lacus) [1150.46-1096.93]
+{212,211}
+	(81,Kordiimonas_lacus) [1096.93-589.147]
+{211,210}
+	(81,Kordiimonas_lacus) [589.147-589.147:589.147]
+	(226,224) [589.147-540.529]
+{210,209}
+	(226,224) [540.529-491.058]
+{209,208}
+	(224,Thiocapsa_rosea) [491.058-245.5]
+{208,Thioflavicoccus_mobilis_8321}
+	(224,Thiocapsa_rosea) [245.5-245.5:245.5]
+	(226,Thioflavicoccus_mobilis_8321) [245.5-0]
+{208,Thiocapsa_rosea}
+	(224,Thiocapsa_rosea) [245.5-0]
+{209,205}
+	(224,223) [491.058-354.031]
+{205,204}
+	(223,Thiorhodococcus_drewsii_AZ1) [354.031-110.5]
+{204,Thiorhodococcus_drewsii_AZ1}
+	(223,Thiorhodococcus_drewsii_AZ1) [110.5-0]
+{204,Thiocystis_violascens_DSM_198}
+	(223,Thiorhodococcus_drewsii_AZ1) [110.5-110.5:110.5]
+	(222,Thiocystis_violascens_DSM_198) [110.5-0]
+{205,Thiobaca_trueperi}
+	(223,222) [354.031-221.409]
+	(222,Thiobaca_trueperi) [221.409-0]
+{210,200}
+	(226,224) [540.529-540.529:540.529]
+	(289,288) [540.529-424.929]
+{200,Rubrivivax_gelatinosus}
+	(289,288) [424.929-359.859]
+	(288,Rubrivivax_gelatinosus) [359.859-0]
+{200,Thauera_linaloolenti}
+	(289,288) [424.929-424.929:424.929]
+	(278,Thauera_linaloolenti) [424.929-0]
+{211,197}
+	(81,Kordiimonas_lacus) [589.147-141.8]
+{197,Nitrospirillum_amazonenae}
+	(81,Kordiimonas_lacus) [141.8-141.8:141.8]
+	(89,Nitrospirillum_amazonenae) [141.8-0]
+{197,Kordiimonas_lacus}
+	(81,Kordiimonas_lacus) [141.8-0]
+{212,194}
+	(81,Kordiimonas_lacus) [1096.93-1096.93:1096.93]
+	(129,128) [1096.93-1043.39]
+{194,193}
+	(128,127) [1043.39-778.348]
+{193,192}
+	(127,Luteibacter_rhizovicinus) [778.348-562.847]
+{192,191}
+	(127,Luteibacter_rhizovicinus) [562.847-562.847:562.847]
+	(126,125) [562.847-519.693]
+{191,190}
+	(125,124) [519.693-456.748]
+	(124,116) [456.748-274.245]
+{190,189}
+	(116,115) [274.245-206.481]
+{189,188}
+	(116,115) [206.481-206.481:206.481]
+	(122,120) [206.481-172.263]
+{188,187}
+	(120,Rhodanobacter_fulvus_Jip2) [172.263-86]
+{187,Rhodanobacter_sp._FW510-R10}
+	(120,Rhodanobacter_fulvus_Jip2) [86-86:86]
+	(122,Rhodanobacter_sp._FW510-R10) [86-0]
+{187,Rhodanobacter_fulvus_Jip2}
+	(120,Rhodanobacter_fulvus_Jip2) [86-0]
+{188,Rhodanobacter_sp._B05}
+	(120,Rhodanobacter_sp._B05) [172.263-0]
+{189,Dyella_soli}
+	(116,115) [206.481-177.963]
+	(115,Dyella_soli) [177.963-0]
+{190,Dyella_sp._OK004}
+	(116,Dyella_sp._OK004) [274.245-0]
+{191,181}
+	(125,Frateuria_terrea) [519.693-454.16]
+{181,180}
+	(125,Frateuria_terrea) [454.16-454.16:454.16]
+	(126,110) [454.16-389.32]
+{180,Aerosticca_soli}
+	(110,Aerosticca_soli) [389.32-0]
+{180,Fulvimonas_soli}
+	(110,Fulvimonas_soli) [389.32-0]
+{181,Frateuria_terrea}
+	(125,Frateuria_terrea) [454.16-0]
+{192,Luteibacter_rhizovicinus}
+	(127,Luteibacter_rhizovicinus) [562.847-0]
+{193,175}
+	(127,126) [778.348-606.72]
+	(126,125) [606.72-519.693]
+	(125,124) [519.693-456.748]
+{175,Rhodanobacter_sp._C06}
+	(124,123) [456.748-354.517]
+	(123,Rhodanobacter_sp._C06) [354.517-0]
+{175,Dyella_solisilvae}
+	(124,116) [456.748-274.245]
+	(116,115) [274.245-177.963]
+	(115,Dyella_solisilvae) [177.963-0]
+{194,172}
+	(128,106) [1043.39-870.074]
+{172,171}
+	(128,106) [870.074-846.149]
+{171,170}
+	(106,100) [846.149-612.056]
+{170,169}
+	(100,Tahibacter_aquaticus) [612.056-306]
+{169,Tahibacter_aquaticus}
+	(100,Tahibacter_aquaticus) [306-0]
+{169,Dokdonella_fugitiva}
+	(100,Tahibacter_aquaticus) [306-306:306]
+	(105,Dokdonella_fugitiva) [306-0]
+{170,Pseudolysobacter_antarcticus}
+	(100,Pseudolysobacter_antarcticus) [612.056-0]
+{171,Dokdonella_koreensis_DS-123}
+	(106,105) [846.149-620.512]
+	(105,104) [620.512-422.062]
+	(104,Dokdonella_koreensis_DS-123) [422.062-0]
+{172,164}
+	(128,106) [870.074-870.074:870.074]
+	(97,96) [870.074-242.311]
+{164,Pseudoxanthomonas_spadix}
+	(96,Pseudoxanthomonas_spadix) [242.311-0]
+{164,Pseudoxanthomonas_sp._NML171202}
+	(96,Pseudoxanthomonas_sp._NML171202) [242.311-0]
+{213,Kuenenia_stuttgartiensis}
+	(81,Kordiimonas_lacus) [1150.46-1150.46:1150.46]
+	(23,22) [1150.46-775.246]
+	(22,Kuenenia_stuttgartiensis) [775.246-0]
+{214,160}
+	(81,Afifella_marina_DSM_2698) [1204.05-802.667]
+{160,159}
+	(81,Afifella_marina_DSM_2698) [802.667-401.333]
+{159,Zixibacteria_RBG-1}
+	(81,Afifella_marina_DSM_2698) [401.333-401.333:401.333]
+	(303,Zixibacteria_RBG-1) [401.333-0]
+{159,Afifella_marina_DSM_2698}
+	(81,Afifella_marina_DSM_2698) [401.333-0]
+{160,Luteitalea_pratensis}
+	(81,Afifella_marina_DSM_2698) [802.667-802.667:802.667]
+	(299,Luteitalea_pratensis) [802.667-0]
+{215,155}
+	(420,Euryarchaeota_archaeon.2) [1326.7-393]
+{155,Desulfofustis_glycolicu}
+	(420,Euryarchaeota_archaeon.2) [393-393:393]
+	(78,Desulfofustis_glycolicu) [393-0]
+{155,Euryarchaeota_archaeon.2}
+	(420,Euryarchaeota_archaeon.2) [393-0]
+{362,152}
+	(420,419) [2581.52-2249.35]
+{152,151}
+	(419,363) [2249.35-510.919]
+{151,150}
+	(419,363) [510.919-227.838]
+{150,149}
+	(419,363) [227.838-227.838:227.838]
+	(318,317) [227.838-5.2618]
+{149,148}
+	(317,Bathyarchaeota_archaeon_RBG_13_60_20) [5.2618-2.5]
+{148,Bathyarchaeota_archaeon_RBG_13_60_20}
+	(317,Bathyarchaeota_archaeon_RBG_13_60_20) [2.5-0]
+{148,Bathyarchaeota_archaeon.4}
+	(317,Bathyarchaeota_archaeon_RBG_13_60_20) [2.5-2.5:2.5]
+	(322,Bathyarchaeota_archaeon.4) [2.5-0]
+{149,Bathyarchaeota_archaeon_RBG_16_57_9}
+	(317,Bathyarchaeota_archaeon_RBG_16_57_9) [5.2618-0]
+{150,Methanoperedenaceae_GB37}
+	(419,363) [227.838-25.2577]
+	(363,Methanoperedenaceae_GB37) [25.2577-0]
+{151,Ferroglobus_placidus_DSM_10642}
+	(419,363) [510.919-510.919:510.919]
+	(356,Ferroglobus_placidus_DSM_10642) [510.919-0]
+{152,142}
+	(419,418) [2249.35-2031.68]
+	(418,376) [2031.68-1556.71]
+{142,141}
+	(376,368) [1556.71-651.095]
+{141,140}
+	(368,367) [651.095-458.75]
+{140,139}
+	(368,367) [458.75-458.75:458.75]
+	(320,Bathyarchaeota_archaeon.1) [458.75-266.5]
+{139,Bathyarchaeota_archaeon.1}
+	(320,Bathyarchaeota_archaeon.1) [266.5-0]
+{139,Bathyarchaeota_archaeon.2}
+	(320,Bathyarchaeota_archaeon.1) [266.5-266.5:266.5]
+	(313,Bathyarchaeota_archaeon.2) [266.5-0]
+{140,136}
+	(368,367) [458.75-193.502]
+{136,ANME-2_3}
+	(367,ANME-2_3) [193.502-0]
+{136,Methanosarcinales_archaeon.6}
+	(367,Methanosarcinales_archaeon.6) [193.502-0]
+{141,ANME-2_5}
+	(368,ANME-2_5) [651.095-0]
+{142,132}
+	(376,375) [1556.71-870.041]
+{132,131}
+	(375,374) [870.041-641.866]
+{131,130}
+	(374,372) [641.866-235.758]
+{130,129}
+	(372,Methanoperedenaceae_archaeon) [235.758-230.263]
+{129,128}
+	(372,Methanoperedenaceae_archaeon) [230.263-225.526]
+{128,127}
+	(372,Methanoperedenaceae_archaeon) [225.526-225.526:225.526]
+	(391,390) [225.526-220.789]
+{127,126}
+	(391,390) [220.789-206.578]
+{126,125}
+	(390,389) [206.578-177.915]
+{125,124}
+	(390,389) [177.915-149.83]
+{124,ANME-2_1}
+	(389,ANME-2_1) [149.83-0]
+{124,Methanosarcinales_archaeon.2}
+	(389,387) [149.83-104.719]
+	(387,Methanosarcinales_archaeon.2) [104.719-0]
+{125,ANME-2_4}
+	(390,389) [177.915-177.915:177.915]
+	(391,ANME-2_4) [177.915-0]
+{126,ANME-2_6}
+	(390,384) [206.578-142.739]
+	(384,ANME-2_6) [142.739-0]
+{127,Methanosarcinales_archaeon.5}
+	(391,390) [220.789-206.578]
+	(390,384) [206.578-142.739]
+	(384,Methanosarcinales_archaeon.5) [142.739-0]
+{128,Methanoperedenaceae_archaeon}
+	(372,Methanoperedenaceae_archaeon) [225.526-0]
+{129,Methanoperedenaceae_GB50}
+	(372,Methanoperedenaceae_archaeon) [230.263-230.263:230.263]
+	(419,363) [230.263-25.2577]
+	(363,Methanoperedenaceae_GB50) [25.2577-0]
+{130,Methanoperedens_sp.}
+	(372,Methanoperedens_sp.) [235.758-0]
+{131,115}
+	(374,Methanoperedens_nitroreducens) [641.866-298]
+{115,Methanoperedens_nitroreducens}
+	(374,Methanoperedens_nitroreducens) [298-0]
+{115,Methanosarcinales_archaeon.3}
+	(374,Methanoperedens_nitroreducens) [298-298:298]
+	(392,Methanosarcinales_archaeon.3) [298-0]
+{132,Methanoperedenaceae_HGW-1}
+	(375,Methanoperedenaceae_HGW-1) [870.041-0]
+{363,111}
+	(421,359) [2846.71-1514.92]
+	(359,353) [1514.92-729.235]
+{111,110}
+	(353,352) [729.235-590.142]
+{110,109}
+	(353,352) [590.142-451.285]
+{109,108}
+	(352,351) [451.285-212.069]
+{108,107}
+	(351,350) [212.069-92.2989]
+{107,Archaeoglobi_2}
+	(350,Archaeoglobi_2) [92.2989-0]
+{107,Archaeoglobi_3}
+	(350,Archaeoglobi_3) [92.2989-0]
+{108,Archaeoglobi_1}
+	(351,Archaeoglobi_1) [212.069-0]
+{109,103}
+	(352,Archaeoglobus_fulgidus1) [451.285-226.786]
+{103,102}
+	(352,Archaeoglobus_fulgidus1) [226.786-226.786:226.786]
+	(353,345) [226.786-2.5716]
+{102,Archaeoglobus_sp.}
+	(345,Archaeoglobus_sp.) [2.5716-0]
+{102,Archaeoglobus_fulgidus2}
+	(345,Archaeoglobus_fulgidus2) [2.5716-0]
+{103,Archaeoglobus_fulgidus1}
+	(352,Archaeoglobus_fulgidus1) [226.786-0]
+{110,Archaeoglobus_veneficus_SNP6}
+	(353,352) [590.142-590.142:590.142]
+	(356,Archaeoglobus_veneficus_SNP6) [590.142-0]
+{111,Methyloglobulus_morosus_KoM1}
+	(353,345) [729.235-201.786]
+	(353,345) [201.786-201.786:201.786]
+	(202,Methyloglobulus_morosus_KoM1) [201.786-0]
+{364,96}
+	(422,Euryarchaeota_archaeon.3) [3150.99-2066.56]
+{96,95}
+	(422,Euryarchaeota_archaeon.3) [2066.56-2066.56:2066.56]
+	(74,73) [2066.56-1940.12]
+{95,94}
+	(73,72) [1940.12-1707.02]
+{94,93}
+	(72,71) [1707.02-1501.86]
+	(71,70) [1501.86-1345.34]
+{93,92}
+	(70,69) [1345.34-1236.63]
+{92,91}
+	(69,68) [1236.63-869.739]
+{91,90}
+	(68,67) [869.739-597.227]
+{90,89}
+	(67,66) [597.227-148.583]
+{89,Leptolyngbya_PCC_7375}
+	(66,Leptolyngbya_PCC_7375) [148.583-0]
+{89,Leptolyngbya_sp._Heron_Island_J}
+	(66,Leptolyngbya_sp._Heron_Island_J) [148.583-0]
+{90,Synechococcus_sp._PCC_7335}
+	(67,Synechococcus_sp._PCC_7335) [597.227-0]
+{91,85}
+	(68,Halomicronema_hongdechloris_C2206) [869.739-505.5]
+{85,84}
+	(68,Halomicronema_hongdechloris_C2206) [505.5-337]
+{84,83}
+	(68,Halomicronema_hongdechloris_C2206) [337-168.5]
+{83,Aphanocapsa_montana_BDHKU210001}
+	(68,Halomicronema_hongdechloris_C2206) [168.5-168.5:168.5]
+	(36,Aphanocapsa_montana_BDHKU210001) [168.5-0]
+{83,Halomicronema_hongdechloris_C2206}
+	(68,Halomicronema_hongdechloris_C2206) [168.5-0]
+{84,Rubidibacter_lacunae}
+	(68,Halomicronema_hongdechloris_C2206) [337-337:337]
+	(59,Rubidibacter_lacunae) [337-0]
+{85,Leptolyngbya_sp._PCC_7376}
+	(68,Halomicronema_hongdechloris_C2206) [505.5-505.5:505.5]
+	(57,Leptolyngbya_sp._PCC_7376) [505.5-0]
+{92,78}
+	(69,61) [1236.63-1115.29]
+	(61,60) [1115.29-1021.37]
+{78,77}
+	(60,44) [1021.37-50.277]
+{77,Moorea_producens_3L}
+	(44,Moorea_producens_3L) [50.277-0]
+{77,Moorea_bouillonii_PNG}
+	(44,Moorea_bouillonii_PNG) [50.277-0]
+{78,Spirulina_major_CCY15215}
+	(60,59) [1021.37-890.064]
+	(59,58) [890.064-799.013]
+	(58,Spirulina_major_CCY15215) [799.013-0]
+{93,73}
+	(70,36) [1345.34-994.321]
+	(36,34) [994.321-640.546]
+{73,72}
+	(34,32) [640.546-94.5496]
+{72,Acaryochloris_marina_MBIC11017}
+	(32,Acaryochloris_marina_MBIC11017) [94.5496-0]
+{72,Acaryochloris_sp._CCMEE_5410}
+	(32,Acaryochloris_sp._CCMEE_5410) [94.5496-0]
+{73,Acaryochloris_sp._RCC1774}
+	(34,Acaryochloris_sp._RCC1774) [640.546-0]
+{94,Pseudanabaena_sp._PCC_7367}
+	(72,28) [1707.02-0.6439]
+	(28,Pseudanabaena_sp._PCC_7367) [0.6439-0]
+{95,67}
+	(73,Synechococcus_sp._PCC_7336) [1940.12-576.312]
+{67,66}
+	(73,Synechococcus_sp._PCC_7336) [576.312-576.312:576.312]
+	(57,55) [576.312-478.624]
+{66,65}
+	(55,54) [478.624-308.816]
+{65,64}
+	(54,52) [308.816-0.2668]
+{64,Hyella_patelloides_LEGE_07179}
+	(52,Hyella_patelloides_LEGE_07179) [0.2668-0]
+{64,Hyella_patelloide}
+	(52,Hyella_patelloide) [0.2668-0]
+{65,Xenococcus_sp._PCC_7305}
+	(54,Xenococcus_sp._PCC_7305) [308.816-0]
+{66,60}
+	(55,49) [478.624-329.065]
+{60,Pleurocapsa_sp._PCC_7319}
+	(49,Pleurocapsa_sp._PCC_7319) [329.065-0]
+{60,Myxosarcina_sp._GI1}
+	(49,Myxosarcina_sp._GI1) [329.065-0]
+{67,Synechococcus_sp._PCC_7336}
+	(73,Synechococcus_sp._PCC_7336) [576.312-0]
+{96,Methylicorpusculum_oleiharenae}
+	(422,Euryarchaeota_archaeon.3) [2066.56-264]
+	(422,Euryarchaeota_archaeon.3) [264-264:264]
+	(204,Methylicorpusculum_oleiharenae) [264-0]
+{365,55}
+	(423,341) [3391.14-1709.75]
+{55,54}
+	(341,Thermoplasmata_archaeon.1) [1709.75-1046.73]
+{54,53}
+	(341,Thermoplasmata_archaeon.1) [1046.73-1046.73:1046.73]
+	(193,Lacimicrobium_alkaliphilum) [1046.73-217.243]
+{53,52}
+	(193,Lacimicrobium_alkaliphilum) [217.243-174.486]
+{52,51}
+	(193,Lacimicrobium_alkaliphilum) [174.486-174.486:174.486]
+	(202,201) [174.486-131.729]
+{51,50}
+	(202,201) [131.729-3.4577]
+{50,Methylomicrobium_agile}
+	(201,Methylomicrobium_agile) [3.4577-0]
+{50,Methylomicrobium_album_BG8}
+	(201,Methylomicrobium_album_BG8) [3.4577-0]
+{51,Nitrosoglobus_terrae}
+	(202,201) [131.729-131.729:131.729]
+	(211,Nitrosoglobus_terrae) [131.729-0]
+{52,Lacimicrobium_alkaliphilum}
+	(193,Lacimicrobium_alkaliphilum) [174.486-0]
+{53,Nitrosopumilus_oxyclinae}
+	(193,Lacimicrobium_alkaliphilum) [217.243-217.243:217.243]
+	(329,Nitrosopumilus_oxyclinae) [217.243-0]
+{54,44}
+	(341,Thermoplasmata_archaeon.1) [1046.73-783.455]
+{44,43}
+	(341,Thermoplasmata_archaeon.1) [783.455-783.455:783.455]
+	(403,399) [783.455-675.683]
+{43,42}
+	(399,Methanohalophilus_mahii_DSM_5219) [675.683-177.5]
+{42,Brocadia_sinica_JPN1}
+	(399,Methanohalophilus_mahii_DSM_5219) [177.5-177.5:177.5]
+	(21,Brocadia_sinica_JPN1) [177.5-0]
+{42,Methanohalophilus_mahii_DSM_5219}
+	(399,Methanohalophilus_mahii_DSM_5219) [177.5-0]
+{43,39}
+	(399,Methanohalophilus_levihalophilus) [675.683-474.417]
+{39,38}
+	(399,Methanohalophilus_levihalophilus) [474.417-315.833]
+{38,37}
+	(399,Methanohalophilus_levihalophilus) [315.833-157.25]
+{37,Methanococcoides_sp._SA1}
+	(399,Methanohalophilus_levihalophilus) [157.25-157.25:157.25]
+	(402,Methanococcoides_sp._SA1) [157.25-0]
+{37,Methanohalophilus_levihalophilus}
+	(399,Methanohalophilus_levihalophilus) [157.25-0]
+{38,Euryarchaeota_archaeon.3}
+	(399,Methanohalophilus_levihalophilus) [315.833-315.833:315.833]
+	(422,Euryarchaeota_archaeon.3) [315.833-0]
+{39,Bathyarchaeota_archaeon.6}
+	(399,Methanohalophilus_levihalophilus) [474.417-474.417:474.417]
+	(318,Bathyarchaeota_archaeon.6) [474.417-0]
+{44,Thermoplasmata_archaeon.1}
+	(341,Thermoplasmata_archaeon.1) [783.455-0]
+{55,31}
+	(341,Thermoplasmata_archaeon.2) [1709.75-1120.88]
+{31,30}
+	(341,Thermoplasmata_archaeon.2) [1120.88-1120.88:1120.88]
+	(334,Nitrosotalea_devanaterra) [1120.88-539.327]
+{30,29}
+	(334,Nitrosotalea_devanaterra) [539.327-539.327:539.327]
+	(211,210) [539.327-474.655]
+{29,28}
+	(211,210) [474.655-474.655:474.655]
+	(261,260) [474.655-390.31]
+{28,27}
+	(260,Nitrosospira_briensis) [390.31-195]
+{27,Nitrosospira_briensis}
+	(260,Nitrosospira_briensis) [195-0]
+{27,Nitrosospira_lacus}
+	(260,Nitrosospira_briensis) [195-195:195]
+	(257,Nitrosospira_lacus) [195-0]
+{28,Nitrosospira_multiformis}
+	(260,Nitrosospira_multiformis) [390.31-0]
+{29,Nitrosococcus_oceani_C-27}
+	(211,210) [474.655-348.566]
+	(210,Nitrosococcus_oceani_C-27) [348.566-0]
+{30,Nitrosotalea_devanaterra}
+	(334,Nitrosotalea_devanaterra) [539.327-0]
+{31,21}
+	(341,Thermoplasmata_archaeon.2) [1120.88-960.75]
+{21,20}
+	(341,Thermoplasmata_archaeon.2) [960.75-800.625]
+{20,19}
+	(341,Thermoplasmata_archaeon.2) [800.625-800.625:800.625]
+	(305,Pacearchaeota_archaeon.2) [800.625-640.5]
+{19,Pacearchaeota_archaeon.1}
+	(305,Pacearchaeota_archaeon.2) [640.5-640.5:640.5]
+	(304,Pacearchaeota_archaeon.1) [640.5-0]
+{19,Pacearchaeota_archaeon.2}
+	(305,Pacearchaeota_archaeon.2) [640.5-0]
+{20,Thermoplasmata_archaeon.2}
+	(341,Thermoplasmata_archaeon.2) [800.625-0]
+{21,Geobacter_uraniireducens_Rf4}
+	(341,Thermoplasmata_archaeon.2) [960.75-960.75:960.75]
+	(78,Geobacter_uraniireducens_Rf4) [960.75-0]
+{366,14}
+	(424,338) [3603.57-3389.66]
+{14,13}
+	(338,337) [3389.66-3133.35]
+	(337,Euryarchaeota_archaeon.1) [3133.35-1125.05]
+{13,12}
+	(337,Euryarchaeota_archaeon.1) [1125.05-1125.05:1125.05]
+	(7,6) [1125.05-297.11]
+{12,11}
+	(6,5) [297.11-15.8359]
+{11,Pyrodictium_delaneyi.1}
+	(5,Pyrodictium_delaneyi.1) [15.8359-0]
+{11,Pyrodictium_delaneyi.2}
+	(5,Pyrodictium_delaneyi.2) [15.8359-0]
+{12,Pyrodictium_delaneyi.3}
+	(6,Pyrodictium_delaneyi.3) [297.11-0]
+{13,Euryarchaeota_archaeon.1}
+	(337,Euryarchaeota_archaeon.1) [1125.05-0]
+{14,6}
+	(338,Woesearchaeota_archaeon) [3389.66-1836.87]
+{6,5}
+	(338,Woesearchaeota_archaeon) [1836.87-1836.87:1836.87]
+	(302,16) [1836.87-557.742]
+{5,4}
+	(16,15) [557.742-84.598]
+{4,Methylacidiphilum_kamchatkense_Kam1}
+	(15,Methylacidiphilum_kamchatkense_Kam1) [84.598-0]
+{4,Methylacidiphilum_fumariolicum_SolV}
+	(15,Methylacidiphilum_fumariolicum_SolV) [84.598-0]
+{5,Methylacidiphilum_infernorum_V4}
+	(16,Methylacidiphilum_infernorum_V4) [557.742-0]
+{6,ANME-2_2}
+	(338,Woesearchaeota_archaeon) [1836.87-4.66667]
+	(338,Woesearchaeota_archaeon) [4.66667-4.66667:4.66667]
+	(379,ANME-2_2) [4.66667-0]
+{ANME-2_2,ANME-2_2-Woesearchaeota_archaeon}
+	(338,Woesearchaeota_archaeon) [4.66667-3.73333]
+{13,13-336}
+	(337,336) [3133.35-3073.99]
+{Nitrosococcus_oceani_C-27,Nitrosococcus_oceani_C-27-Nitrosococcus_halophilus_Nc_4}
+	(210,Nitrosococcus_halophilus_Nc_4) [348.566-278.853]
+{Methylicorpusculum_oleiharenae,Methylicorpusculum_oleiharenae-Euryarchaeota_archaeon.3}
+	(422,Euryarchaeota_archaeon.3) [264-211.2]
+{Pseudanabaena_sp._PCC_7367,Pseudanabaena_sp._PCC_7367-Pseudanabaena_2_PCC7367}
+	(28,Pseudanabaena_2_PCC7367) [0.6439-0.51512]
+{73,73-Aphanocapsa_montana_BDHKU210001}
+	(36,Aphanocapsa_montana_BDHKU210001) [994.321-795.457]
+{Spirulina_major_CCY15215,Spirulina_major_CCY15215-57}
+	(58,57) [799.013-774.038]
+{Spirulina_major_CCY15215,Spirulina_major_CCY15215-Rubidibacter_lacunae}
+	(59,Rubidibacter_lacunae) [890.064-712.051]
+{78,78-41}
+	(61,41) [1115.29-1019.88]
+{93,93-Thermosynechococcus_elongatus_BP-1}
+	(71,Thermosynechococcus_elongatus_BP-1) [1501.86-1201.49]
+{Methyloglobulus_morosus_KoM1,Methyloglobulus_morosus_KoM1-345}
+	(353,345) [201.786-161.943]
+{111,111-358}
+	(359,358) [1514.92-1422.04]
+{Methanoperedenaceae_GB50,Methanoperedenaceae_GB50-Methanoperedenaceae_GB37}
+	(363,Methanoperedenaceae_GB37) [25.2577-20.2062]
+{Methanosarcinales_archaeon.5,Methanosarcinales_archaeon.5-ANME-2_6}
+	(384,ANME-2_6) [142.739-114.191]
+{Methanosarcinales_archaeon.5,Methanosarcinales_archaeon.5-389}
+	(390,389) [206.578-195.228]
+{ANME-2_6,ANME-2_6-Methanosarcinales_archaeon.5}
+	(384,Methanosarcinales_archaeon.5) [142.739-114.191]
+{Methanosarcinales_archaeon.2,Methanosarcinales_archaeon.2-Methanosarcinales_archaeon.4}
+	(387,Methanosarcinales_archaeon.4) [104.719-83.7752]
+{142,142-417}
+	(418,417) [2031.68-1986.65]
+{Methanoperedenaceae_GB37,Methanoperedenaceae_GB37-Methanoperedenaceae_GB50}
+	(363,Methanoperedenaceae_GB50) [25.2577-20.2062]
+{Kuenenia_stuttgartiensis,Kuenenia_stuttgartiensis-21}
+	(22,21) [775.246-691.312]
+{Dokdonella_koreensis_DS-123,Dokdonella_koreensis_DS-123-Dokdonella_immobilis}
+	(104,Dokdonella_immobilis) [422.062-337.65]
+{Dokdonella_koreensis_DS-123,Dokdonella_koreensis_DS-123-Dokdonella_fugitiva}
+	(105,Dokdonella_fugitiva) [620.512-496.41]
+{Dyella_solisilvae,Dyella_solisilvae-Dyella_soli}
+	(115,Dyella_soli) [177.963-142.37]
+{Dyella_solisilvae,Dyella_solisilvae-Dyella_sp._OK004}
+	(116,Dyella_sp._OK004) [274.245-219.396]
+{Rhodanobacter_sp._C06,Rhodanobacter_sp._C06-122}
+	(123,122) [354.517-330.763]
+{175,175-Frateuria_terrea}
+	(125,Frateuria_terrea) [519.693-415.754]
+{175,175-110}
+	(126,110) [606.72-563.24]
+{Dyella_soli,Dyella_soli-Dyella_solisilvae}
+	(115,Dyella_solisilvae) [177.963-142.37]
+{190,190-123}
+	(124,123) [456.748-436.302]
+{Rubrivivax_gelatinosus,Rubrivivax_gelatinosus-Burkholderiales_bacterium_JOSHI_001}
+	(288,Burkholderiales_bacterium_JOSHI_001) [359.859-287.887]
+{Thiobaca_trueperi,Thiobaca_trueperi-Thiocystis_violascens_DSM_198}
+	(222,Thiocystis_violascens_DSM_198) [221.409-177.127]
+{Ectothiorhodospira_haloalkaliphila,Ectothiorhodospira_haloalkaliphila-211}
+	(213,211) [1282.45-1146.81]
+{219,219-227}
+	(228,227) [1453.9-1418.03]
+{220,220-206}
+	(230,206) [1761.84-1685.03]
+{Shewanella_sp._P1-14-1,Shewanella_sp._P1-14-1-Shewanella_fodinae}
+	(165,Shewanella_fodinae) [110-88]
+{Shewanella_sp._P1-14-1,Shewanella_sp._P1-14-1-Shewanella_mangrovi}
+	(165,Shewanella_mangrovi) [383.846-307.077]
+{Shewanella_maritima,Shewanella_maritima-Shewanella_sp._P1-14-1}
+	(180,Shewanella_sp._P1-14-1) [220.162-176.13]
+{250,250-Shewanella_algae}
+	(188,Shewanella_algae) [333.967-267.173]
+{Shewanella_benthica_KT99,Shewanella_benthica_KT99-185}
+	(186,185) [78.4672-70.5606]
+{Shewanella_sediminis_HAW-EB3,Shewanella_sediminis_HAW-EB3-Shewanella_benthica_KT99}
+	(171,Shewanella_benthica_KT99) [118.332-94.6656]
+{258,258-181}
+	(182,181) [375.408-358.913]
+{272,272-Lacimicrobium_alkaliphilum}
+	(193,Lacimicrobium_alkaliphilum) [1310.65-1048.52]
+{Marinimicrobium_koreense,Marinimicrobium_koreense-Alteromonadaceae.01}
+	(135,Alteromonadaceae.01) [645.11-516.088]
+{277,277-138}
+	(139,138) [988.554-887.409]
+{277,277-Aestuariirhabdus_litorea}
+	(140,Aestuariirhabdus_litorea) [1228.61-982.884]
+{Nitrosococcus_halophilus_Nc_4,Nitrosococcus_halophilus_Nc_4-Permianibacter_aggregans}
+	(195,Permianibacter_aggregans) [116-92.8]
+{Telmatospirillum_siberiense,Telmatospirillum_siberiense-Magnetospirillum_magneticum_AMB-1}
+	(85,Magnetospirillum_magneticum_AMB-1) [621.766-497.413]
+{287,287-89}
+	(90,89) [1217.07-1115.47]
+{Alteromonadaceae.01,Alteromonadaceae.01-Marinimicrobium_koreense}
+	(135,Marinimicrobium_koreense) [645.11-516.088]
+{Noviherbaspirillum_denitrificans,Noviherbaspirillum_denitrificans-289}
+	(290,289) [876.059-818.931]
+{Nitrosovibrio_sp._Nv17,Nitrosovibrio_sp._Nv17-Nitrosospira_lacus}
+	(257,Nitrosospira_lacus) [408.829-327.063]
+{Nitrosovibrio_sp._Nv17,Nitrosovibrio_sp._Nv17-260}
+	(261,260) [559.282-525.488]
+{Nitrosomonas_communis.2,Nitrosomonas_communis.2-Nitrosomonas_communis.1}
+	(239,Nitrosomonas_communis.1) [20.956-16.7648]
+{Nitrosomonas_sp._Nm134,Nitrosomonas_sp._Nm134-Nitrosomonas_sp._Nm141}
+	(251,Nitrosomonas_sp._Nm141) [39.6175-31.694]
+{Dechloromonas_sp._HYN0024,Dechloromonas_sp._HYN0024-Dechloromonas_aromatica_RCB}
+	(269,Dechloromonas_aromatica_RCB) [124.442-99.5536]
+{Dechloromonas_sp._HYN0024,Dechloromonas_sp._HYN0024-Propionivibrio_dicarboxylicus}
+	(270,Propionivibrio_dicarboxylicus) [555.441-444.353]
+{Dechloromonas_sp._HYN0024,Dechloromonas_sp._HYN0024-Uliginosibacterium_TH139}
+	(272,Uliginosibacterium_TH139) [867.601-694.081]
+{343,343-Thauera_linaloolenti}
+	(278,Thauera_linaloolenti) [490.27-392.216]
+{Burkholderiales_bacterium_JOSHI_001,Burkholderiales_bacterium_JOSHI_001-Rubrivivax_gelatinosus}
+	(288,Rubrivivax_gelatinosus) [359.859-287.887]
+{Rhodoferax_ferrireducens_T118,Rhodoferax_ferrireducens_T118-Rhodoferax_sp._IMCC26218}
+	(285,Rhodoferax_sp._IMCC26218) [288.793-231.034]
+{352,352-Noviherbaspirillum_denitrificans}
+	(290,Noviherbaspirillum_denitrificans) [876.059-700.847]
